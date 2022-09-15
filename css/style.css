@@ -19,7 +19,7 @@ h1 {
 }
 
 body {
-    font-family: 'Fredoka One', cursive;
+    font-family: 'Fredoka', sans-serif;
 }
 
 .container {
@@ -57,4 +57,9 @@ a {
 
 h4 {
     font-size: 15px;
+}
+
+h1 {
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Fredoka One', cursive;
 }
