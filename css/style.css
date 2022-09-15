@@ -8,11 +8,28 @@
     padding: 0;
 }
 
+.container {
+    width: 1150px;
+    content: ;
+}
+
 .box {
     background-color: black;
-    width: 400px;
+    width: 300px;
     color: #fff;
     float: left;
     margin-left: 25px;
     margin-bottom: 40px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 15px;
+}
+
+h4, small, a {
+    padding-top: 20px;
+    
 }
