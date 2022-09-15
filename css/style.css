@@ -11,21 +11,23 @@
 header {
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 h1 {
     color: #E53170;
+    margin-bottom: 40px;
 }
 
 body {   
     font-family: 'Fredoka', sans-serif;
+    font-family: 'Fredoka One', cursive;
+    
 }
 
 .container {
     max-width: 1150px;
-    margin: auto;
-    
+    margin: auto;    
 }
 
 .box {
@@ -34,7 +36,7 @@ body {
     width: 300px;
     color: #fff;
     float: left;
-    margin-left: 25px;
+    margin-left: 65px;
     margin-bottom: 40px;
 }
 
@@ -60,6 +62,9 @@ h4 {
 }
 
 h1 {
-    font-family: 'Fredoka', sans-serif;
-    font-family: 'Fredoka One', cursive;
+    font-weight: 700;
+}
+
+p{
+    font-weight: 300;
 }
