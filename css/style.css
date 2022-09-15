@@ -8,6 +8,18 @@
     padding: 0;
 }
 
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #E53170;
+}
+
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
 .container {
     max-width: 1150px;
     margin: auto;
@@ -32,10 +44,14 @@ img {
 }
 
 h4, small, a {
-    padding-top: 20px;
+    padding-top: 10px;
     
 }
 
 a {
     text-decoration: none;
+}
+
+h4 {
+    font-size: 15px;
 }
