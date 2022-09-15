@@ -1,0 +1,16 @@
+/*-----------
+    RESET
+-----------*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    background-color: black;
+    width: 400px;
+    color: #fff;
+    float: left;
+}
