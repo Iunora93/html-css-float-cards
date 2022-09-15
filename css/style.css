@@ -9,11 +9,13 @@
 }
 
 .container {
-    width: 1150px;
-    content: ;
+    max-width: 1150px;
+    margin: auto;
+    
 }
 
 .box {
+    box-shadow: 2px 2px 2px 2px lightgray;
     background-color: black;
     width: 300px;
     color: #fff;
@@ -32,4 +34,8 @@ img {
 h4, small, a {
     padding-top: 20px;
     
+}
+
+a {
+    text-decoration: none;
 }
