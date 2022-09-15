@@ -8,17 +8,6 @@
     padding: 0;
 }
 
-header {
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 40px;
-}
-
-h1 {
-    color: #E53170;
-    margin-bottom: 40px;
-}
-
 body {   
     font-family: 'Fredoka', cursive;    
 }
@@ -28,6 +17,25 @@ body {
     margin: auto;    
 }
 
+
+/* header */
+header {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/* Titolo e paragrafo */
+h1 {
+    color: #E53170;
+    margin-bottom: 40px;
+}
+
+p{
+    font-weight: 400;
+}
+
+/* caratteristiche box */
 .box {
     box-shadow: 2px 2px 2px 2px lightgray;
     background-color: black;
@@ -38,6 +46,7 @@ body {
     margin-bottom: 40px;
 }
 
+/* immagini */
 img {
     width: 100px;
     height: 100px;
@@ -45,9 +54,9 @@ img {
     margin-right: 15px;
 }
 
+/* info immagini */
 h4, small, a {
-    padding-top: 10px;
-    
+    padding-top: 10px;    
 }
 
 a {
@@ -63,7 +72,5 @@ h1 {
     font-weight: 700;
 }
 
-p{
-    font-weight: 400;
-}
+
 
