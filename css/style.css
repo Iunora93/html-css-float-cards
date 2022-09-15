@@ -20,9 +20,7 @@ h1 {
 }
 
 body {   
-    font-family: 'Fredoka', sans-serif;
-    font-family: 'Fredoka One', cursive;
-    
+    font-family: 'Fredoka', cursive;    
 }
 
 .container {
@@ -66,5 +64,6 @@ h1 {
 }
 
 p{
-    font-weight: 300;
+    font-weight: 400;
 }
+
